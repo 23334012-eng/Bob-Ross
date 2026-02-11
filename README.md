@@ -12,7 +12,7 @@ Tools & Technologies
 
 •	Matplotlib – Data visualization for frequency distributions and trends
 
-•	Jupyter Notebook – Interactive environment for exploratory analysis and documentation
+•	Google colab – Interactive environment for exploratory analysis and documentation
 
 
 Key Findings
